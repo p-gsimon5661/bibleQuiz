@@ -1,0 +1,39 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Bible Quiz</string>
+    <string name="desc">Quiz app from Grow with Google Android basics - Udacity</string>
+    <string name="vbs">vbs image</string>
+
+    <string name="q1">1. The flood came upon the Earth when Noah was ___ years old?</string>
+    <string name="q2">2. Jacob’s oldest son was?</string>
+    <string name="q3">3. Name three of the plagues that were sent to Egypt?</string>
+    <string name="q4">4. Psalms is the longest book in the Bible?</string>
+    <string name="q5">5. King Solomon’s mother was?</string>
+
+    <string name="q1_answer">00</string>
+
+    <string name="opt">Flies</string>
+    <string name="opt1">Frogs</string>
+    <string name="opt2">Arrows</string>
+    <string name="opt3">Lice</string>
+
+    <string name="radio0">Issachar</string>
+    <string name="radio1">Reuben</string>
+    <string name="radio2">Jude</string>
+
+    <string name="toggle_turn_true">True</string>
+    <string name="toggle_turn_false">False</string>
+
+    <string name="radio00">Abigail</string>
+    <string name="radio01">Bathsheba</string>
+    <string name="radio02">Hannah</string>
+
+    <string name="startQuiz">Start Quiz</string>
+    <string name="back"> &lt;Back</string>
+    <string name="next"> Next&gt;</string>
+    <string name="grade">Grade</string>
+
+    <string name="lq">This is the last question.</string>
+    <string name="fq">This is the first question.</string>
+    <string name="cm">You got <xliff:g example="2" id="quantity">%d</xliff:g> out 5 questions correct</string>
+</resources>
+
